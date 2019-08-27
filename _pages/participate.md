@@ -12,6 +12,8 @@ The most important thing you can do for the team is to attend practice regularly
 
 The next most important thing you can do is **recruit your friends**. Share this website on social media, pass out [flyers]() at school, invite people to come to practice with you, etc.
 
+Finally, learn as much as you can about the sport. Read the rules, watch games online, check out the [additional resources](/learn#additional-resources) section of the Learn page for some good jumping off points.
+
 ## Adult Volunteers
 
 Many hands make light work and team sports are no exception. No matter your background or skills there are definitely ways to help the team. Some examples include:
