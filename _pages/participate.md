@@ -23,4 +23,4 @@ Many hands make light work and team sports are no exception. No matter your back
 * Marketing/promotion
 * Logistics (spreadsheets, equipment orders, etc)
 
-If you're interested in helping out please [get in touch].(mailto:lee@outerim.com)
+If you're interested in helping out please [get in touch](mailto:lee@outerim.com).
