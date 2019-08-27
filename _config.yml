@@ -1,6 +1,12 @@
 title: Bountiful Ultimate
-description: Youth Ultimate team in Bountiful, UT
+description: The first and only Youth Ultimate team in Bountiful, UT
 google_analytics: "UA-146492436-1"
 markdown: kramdown
 logo: images/handle.jpg
 theme: jekyll-theme-minimal
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
