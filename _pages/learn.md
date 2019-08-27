@@ -33,5 +33,5 @@ I've got a serious passion for Ultimate. I see it as a vehicle to promote a heal
 If you're interested in learning more, here are some resources:
 
 * This [Spectators Guide](https://www.usaultimate.org/assets/1/Page/Spectator%20Guide%202016_web.pdf) put out by USAU gives a great intro to the game and how to make sense of what you're seeing on the field.
-* New players will benefit from reviewing a [simplified Ultimate ruleset](https://www.usaultimate.org/resources/officiating/rules/default.aspx#10simplerules)
-* I also put together a couple YouTube playlists to help new players learn [throwing techniques]() and [offensive/defensive strategies]() we'll be using
+* New players will benefit from reviewing a [simplified Ultimate ruleset](https://www.usaultimate.org/resources/officiating/rules/default.aspx#10simplerules).
+* I also put together a couple YouTube playlists to help new players learn [throwing techniques]() and [offensive/defensive strategies]() we'll be using.
