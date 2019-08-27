@@ -8,7 +8,7 @@ We need both player participants and adult volunteers to make this team successf
 
 ## Players
 
-The most important thing you can do for the team is to attend practice regularly. Practices are held each Friday this fall at [Lewis Park](https://goo.gl/maps/ZRvMYVk1CETT7AKm8) from 2:30-4:30pm. Practices will likely end in late October or early November. We'll go until the weather turns too cold or field conditions prevent us. There may even be some opportunities to scrimmage against other local teams or attend the fall state tournament.
+The most important thing you can do for the team is to attend practice regularly. Practices are held **each Friday** this fall at [Lewis Park](https://goo.gl/maps/ZRvMYVk1CETT7AKm8) from 2:30-4:30pm. Practices will likely end in late October or early November. We'll go until the weather turns too cold or field conditions prevent us. There may even be some opportunities to scrimmage against other local teams or attend the fall state tournament.
 
 The next most important thing you can do is **recruit your friends**. Share this website on social media, pass out [flyers]() at school, invite people to come to practice with you, etc.
 
