@@ -23,6 +23,6 @@ Many hands make light work and team sports are no exception. No matter your back
 * Assistant coaching (no experience required)
 * Graphic Design
 * Marketing/promotion
-* Logistics (spreadsheets, equipment orders, etc)
+* Logistics (spreadsheets, equipment orders, player registrations, etc)
 
 If you're interested in helping out please [get in touch](mailto:lee@outerim.com).
