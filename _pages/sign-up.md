@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post-page
 title: Join the team
 permalink: /sign-up
 --- 
