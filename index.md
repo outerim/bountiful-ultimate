@@ -11,5 +11,6 @@ Thanks for your interest in our brand new team! We're using this Fall season to 
 
 ## Interested?
 * You can find more information on the team, it's goals, and the sport of Ultimate on our [Learn Page](/learn).
+* Attend a team [practice](/practice)
 * Find out how you can [Get Involved](/get-involved) either as a player or adult volunteer.
 * Once you're ready to commit [get signed up](/sign-up).

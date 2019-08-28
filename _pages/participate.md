@@ -8,7 +8,7 @@ We need both player participants and adult volunteers to make this team successf
 
 ## Players
 
-The most important thing you can do for the team is to attend practice regularly. Practices are held **each Friday** this fall at [Lewis Park](https://goo.gl/maps/ZRvMYVk1CETT7AKm8) from 2:30-4:30pm. Practices will likely end in late October or early November. We'll go until the weather turns too cold or field conditions prevent us. There may even be some opportunities to scrimmage against other local teams or attend the fall state tournament.
+The most important thing you can do for the team is to [attend practice](/practice) regularly. Take time outside of practice to work on your throws and improve your fitness.
 
 The next most important thing you can do is **recruit your friends**. Share this website on social media, pass out [flyers](/files/flyer.pdf) at school, invite people to come to practice with you, etc.
 
@@ -20,7 +20,7 @@ Finally, learn as much as you can about the sport. Read the rules, watch games o
 
 ## Parents
 
-Ultimate isn't like other sports. We expect exemplary sportsmanship from our players. Those watching from the sidelines are expected to behave differently too. UUDA has put together a [helpful list of do's and don'ts](/files/spectator-dos-donts.pdf) for spectators. You can best support your player when you understand the game. Check out USAU's [spectator guide](https://www.usaultimate.org/assets/1/Page/Spectator%20Guide%202016_web.pdf) to help you quickly get up to speed and better understand what's happening on the field.
+Ultimate isn't like other sports. We expect exemplary sportsmanship from our players and higher standards are also expected of those watching from the sidelines. UUDA has put together a [helpful list of do's and don'ts](/files/spectator-dos-donts.pdf) for spectators. To make the most of your sideline experience check out USAU's [spectator guide](https://www.usaultimate.org/assets/1/Page/Spectator%20Guide%202016_web.pdf) to help you quickly get up to speed and better understand what's happening on the field.
 
 We'd also love for you to get even more involved in the team. Keep reading for other ways you can help out!
 
