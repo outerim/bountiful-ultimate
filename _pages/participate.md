@@ -16,7 +16,9 @@ Finally, learn as much as you can about the sport. Read the rules, watch games o
 
 ## Parents
 
-Ultimate isn't like other sports. 
+Ultimate isn't like other sports. We expect exemplary sportsmanship from our players. Those watching from the sidelines are expected to behave differently too. UUDA has put together a [helpful list of do's and don'ts](/files/spectator-dos-donts.pdf) for spectators. You can best support your player when you understand the game. Check out USAU's [spectator guide](https://www.usaultimate.org/assets/1/Page/Spectator%20Guide%202016_web.pdf) to help you quickly get up to speed and better understand what's happening on the field.
+
+We'd also love for you to get even more involved in the team. Keep reading for other ways you can help out!
 
 ## Adult Volunteers
 
