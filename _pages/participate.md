@@ -12,7 +12,11 @@ The most important thing you can do for the team is to attend practice regularly
 
 The next most important thing you can do is **recruit your friends**. Share this website on social media, pass out [flyers]() at school, invite people to come to practice with you, etc.
 
-Finally, learn as much as you can about the sport. Read the rules, watch games online, check out the [additional resources](/learn#additional-resources) section of the Learn page for some good jumping off points.
+Finally, learn as much as you can about the sport. Read the rules, watch games online, and check out these additional resources to help you learn the game.
+
+* [10 Simple rules of Ultimate](https://www.usaultimate.org/resources/officiating/rules/default.aspx#10simplerules) is a great place to start.
+* I also put together a couple YouTube playlists to help new players learn [throwing techniques]() and [offensive/defensive strategies]() we'll be using.
+
 
 ## Parents
 
