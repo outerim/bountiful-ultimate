@@ -14,6 +14,10 @@ The next most important thing you can do is **recruit your friends**. Share this
 
 Finally, learn as much as you can about the sport. Read the rules, watch games online, check out the [additional resources](/learn#additional-resources) section of the Learn page for some good jumping off points.
 
+## Parents
+
+Ultimate isn't like other sports. 
+
 ## Adult Volunteers
 
 Many hands make light work and team sports are no exception. No matter your background or skills there are definitely ways to help the team. Some examples include:
