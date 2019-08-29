@@ -15,7 +15,7 @@ The next most important thing you can do is **recruit your friends**. Share this
 Finally, learn as much as you can about the sport. Read the rules, watch games online, and check out these additional resources to help you learn the game.
 
 * [10 Simple rules of Ultimate](https://www.usaultimate.org/resources/officiating/rules/default.aspx#10simplerules) is a great place to start.
-* I also put together a couple YouTube playlists to help new players learn [throwing techniques]() and [offensive/defensive strategies]() we'll be using.
+* I also put together a couple YouTube playlists to help new players learn [throwing techniques](https://www.youtube.com/playlist?list=PLgncUpu6zcHkCxPUM5kXp9YxAMyp8x_nu) and [offensive/defensive strategies](https://www.youtube.com/playlist?list=PLgncUpu6zcHlsWQS9IM94ZJkegmQjncP7) we'll be using.
 
 
 ## Parents
