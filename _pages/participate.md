@@ -10,7 +10,7 @@ We need both player participants and adult volunteers to make this team successf
 
 The most important thing you can do for the team is to [attend practice](/practice) regularly. Take time outside of practice to work on your throws and improve your fitness.
 
-The next most important thing you can do is **recruit your friends**. Share this website on social media, pass out [flyers](/files/flyer.pdf) at school, invite people to come to practice with you, etc.
+The next most important thing you can do is **recruit your friends**. Share this website on social media, invite people to come to practice with you, etc.
 
 Finally, learn as much as you can about the sport. Read the rules, watch games online, and check out these additional resources to help you learn the game.
 
@@ -35,4 +35,4 @@ Many hands make light work and team sports are no exception. No matter your back
 * Marketing/promotion
 * Logistics (spreadsheets, equipment orders, player registrations, etc)
 
-If you're interested in helping out please [get in touch](mailto:lee@outerim.com).
+If you're interested in helping out please [get in touch](mailto:chimera.ulti@gmail.com).
