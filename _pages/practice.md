@@ -4,7 +4,13 @@ title: Practice
 permalink: /practice
 ---
 
-Chimera currently practices 3 times a week. Tuesdays & Thursdays from 4-6pm and Saturdays from 9-11am at the field behind [Oak Hills Elementary](https://www.google.com/maps/place/300+S+@+1226+E/@40.8855255,-111.8550633,18z/data=!4m5!3m4!1s0x8752580875fc69e7:0xab5101ed3e78fb9!8m2!3d40.885676!4d-111.8550149?authuser=1) in Bountiful. On days when we have games, beginning in late March our Thursday practice will be replaced with a game. The season will run through end of May.
+## Practice schedule
+Practices are open to all 5th-12th graders. We practice at [Lewis Park](https://goo.gl/maps/yHBn8AxMc3rVmngMA) in Bountiful.
+* Monday 4-5:30pm
+* Wednesday 4-5:30pm
+* Friday 1-3pm
+
+**Note: Practices will extend to 6pm in late February/early March as the days get longer*
 
 ## What to bring
 

@@ -3,11 +3,35 @@ layout: post-page
 permalink: /
 ---
 
-![Zone Defense](/images/mark.jpg)
+![Team Photo](/images/team.jpg)
 
-## Welcome!
-Thanks for your interest in our brand new team!
-After a successful Fall season of team building we're ready to join [UUDA's](https://utahultimate.org) Spring 2020 Middle School League. Last year there were approximately 8 teams in the league spread across Salt Lake and northern Utah Counties. We're always welcoming new players. Even if you've never been successful in team sports before come give it a shot, bring your friends, and prepare to **get hooked!**
+## Spring 2021 info
+
+**Start Recruiting now!** We're planning to participate in **both** High School and Middle School divisions this year!
+
+### Practice schedule
+Practices are open to all 5th-12th graders. We practice at [Lewis Park](https://goo.gl/maps/yHBn8AxMc3rVmngMA) in Bountiful.
+* Monday 4-5:30pm
+* Wednesday 4-5:30pm
+* Friday 1-3pm
+
+**Note: Practices will extend to 6pm in late February/early March as the days get longer*
+
+## Important Dates
+
+### League Game nights
+**Wednesdays** Mid March thru mid May with a couple weeks off for Spring Breaks.
+
+### Tournaments
+* Mar 20 - YouThaw, HS+MS 3v3 Tournament
+* Apr 16-17 - Middle School "Mountain Showdown"
+* May 14-15 - All day Friday/Saturday both HS and MS
+
+### 3v3 Girls Tournaments
+* Apr 10
+* Jun 12
+* Sep 4
+* Oct 9
 
 ## Interested?
 * You can find more information on the team, it's goals, and the sport of Ultimate on our [Learn Page](/learn).

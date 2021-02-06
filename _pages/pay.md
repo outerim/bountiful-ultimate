@@ -9,8 +9,6 @@ Growing up I desperately wanted to play sports but it was simply unaffordable fo
 
 ## Paying fees
 
-Team fees are $130 for Spring 2020. This includes $65 for UUDA league participation and another $65 for uniforms, equipment, and team dues.
-
 ### PayPal
 The team has it's own PayPal account which doubles as our checking account. This is the preferred way to send funds.
 

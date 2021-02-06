@@ -23,7 +23,7 @@ layout: default
     {{ content }}
   </div>
 
-  <p class="author_title">{% if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif %}  ·  {{ page.date | date: "%B %e, %Y" }}</p>
+  <p class="author_title">{% if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif %}</p>
   {% if page.last_modified_at %}
   <p class="author_title" datetime="{{ page.last_modified_at | date_to_xmlschema }}">(Updated: {{ page.last_modified_at | date: "%b %-d, %Y" }})</p>
   {% endif %}
