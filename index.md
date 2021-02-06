@@ -9,6 +9,10 @@ permalink: /
 
 **Start Recruiting now!** We're planning to participate in **both** High School and Middle School divisions this year!
 
+### Keep up to date
+[Join our GroupMe](https://groupme.com/join_group/66219801/GtwmbgO3) to keep up with late breaking practice cancellations or game day changes. We also have a [Google Group mailing list](https://groups.google.com/u/1/g/bountiful-ultimate) where we send longer form info for the season. You can request to join either or both or send your email/phone to [chimera.ulti@gmail.com](mailto:chimera.ulti@gmail.com) to be added.
+
+
 ### Practice schedule
 Practices are open to all 5th-12th graders. We practice at [Lewis Park](https://goo.gl/maps/yHBn8AxMc3rVmngMA) in Bountiful.
 * Monday 4-5:30pm
