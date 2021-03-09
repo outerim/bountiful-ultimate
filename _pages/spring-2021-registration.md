@@ -18,12 +18,13 @@ With that out of the way, the first order of business is to decide which events 
 
 **If you intend to participate in any of these events you’ll need to register with USA Ultimate.** Head on over to [the USAU website](https://play.usaultimate.org/members/login). If you haven’t played before you’ll need to create an account for your player(s) by clicking “Join USA Ultimate”. If you’re already a USAU member log in to your player account. Once logged in or registered there are a couple steps to take for each player.
 
+*Here's a quick screenshot to show you where to find things on the USAU site*
+![USAU Screenshot](/images/usau-screenshot.jpg)
+
 1. Make a note of your USAU ID number - you’ll need that during step 5
 2. Complete the Liability Waiver
 3. Complete the Infectious Disease (COVID) Waiver
-4. Purchase a player membership. The cost is only $17 per player and provides insurance coverage and various other benefits we get from the national organization. Select purchase membership (seen in the upper left of the screenshot below). On the next page select **Affiliate Player** for the membership level, and Utah for Participating state. Click Continue then scroll down on the subsequent page and select **"Affiliate - Utah Ultimate Disc Association (UUDA)"** for the sponsoring organization. Then hit next to proceed through the subsequent steps to pay for your membership. (Note, the donation section is optional you can scroll down and proceed past that part by hitting Next).
+4. Purchase a player membership. The cost is only $17 per player and provides insurance coverage and various other benefits we get from the national organization. On the Purchase Membership page select **Affiliate Player** for the membership level, and Utah for Participating state. Click Continue then scroll down on the subsequent page and select **"Affiliate - Utah Ultimate Disc Association (UUDA)"** for the sponsoring organization. Then hit next to proceed through the subsequent steps to pay for your membership. (Note, the donation section is optional you can scroll down and proceed past that part by hitting Next).
 5. Fill out our [registration form](https://forms.gle/avZk5uSUUApStLUh8)
 6. Get a copy of the [USAU Medical Waiver](/files/medical-waiver-2021.pdf) to Coach Lee *You can email it to [chimera.ulti@gmail.com](mailto:chimera.ulti@gmail.com), or bring a copy to practice*
 
-*Here's a quick screenshot to show you where to find things on the USAU site*
-![USAU Screenshot](/images/usau-screenshot.jpg)
