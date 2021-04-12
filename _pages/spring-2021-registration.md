@@ -14,6 +14,7 @@ With that out of the way, the first order of business is to decide which events 
 
 1. Middle School State Tournament. May 14-15 @ the Salt Lake Regional Athletic Complex. $20/player (free for those participating in Spring League)
 2. Mountain Showdown MS Tournament. Apr 16-17 @ the Salt Lake Equestrian Center. $15/player (Location may change or event delayed due to COVID policies of the center unless restrictions loosen before April)
+3. 3v3 Tournament. Jun 12 @ TBD. $10/player. This will be a fun 3v3 tournament with several divisions including an division for families/casual players.
 
 ## How to register
 
