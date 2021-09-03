@@ -7,8 +7,8 @@ permalink: /practice
 ## Practice schedule
 Practices are open to all 5th-12th graders. We practice at [Lewis Park](https://goo.gl/maps/yHBn8AxMc3rVmngMA) in Bountiful.
 * Monday 4-6pm
-* Wednesday 4-6pm
-* Friday 1-3pm
+* Wednesday 4-6pm (until Sept 15)
+* Friday 4-6pm
 
 ## What to bring
 
