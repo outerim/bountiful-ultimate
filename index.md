@@ -3,7 +3,7 @@ layout: post-page
 permalink: /
 ---
 
-![Team Photo](/images/team.jpg)
+![Team Photo](/images/team.jpg?1)
 
 ## Spring 2022 info
 
