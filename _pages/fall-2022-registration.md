@@ -31,8 +31,8 @@ Fall league is starting up real soon and it's time to start getting registered. 
 7. Hit Next
 8. Fill out the participant info & hit Next
 9. Choose your USAU membership
-  1. Returning players should already have a USAU membership from last season. No need to pay for a new one.
-  2. New players select the $17 USAU "Affiliate Events-Only All Year" membership. This is required to participate in the league and end of season tournament.
+	1. Returning players should already have a USAU membership from last season. No need to pay for a new one.
+	2. New players select the $17 USAU "Affiliate Events-Only All Year" membership. This is required to participate in the league and end of season tournament.
 10. There are 3 waivers to sign.
 	1. USAU's medical authorization form should be **printed, filled out, signed, and given to me** either at practice or scanned/emailed.
 	2. The other two you can simply check a box and agree to online
