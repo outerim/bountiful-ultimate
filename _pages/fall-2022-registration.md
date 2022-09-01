@@ -36,6 +36,6 @@ Fall league is starting up real soon and it's time to start getting registered. 
 10. There are 3 waivers to sign.
 	1. USAU's medical authorization form should be **printed, filled out, signed, and given to me** either at practice or scanned/emailed.
 	2. The other two you can simply check a box and agree to online
-11. Once you complete the waivers section you can proceed to checkout. Your total should be $90.
+11. Once you complete the waivers section you can proceed to checkout. Your total should be $50 if you're a returning player or $67.85 if you're a new player.
 12. Pay
 13. PLAY!
