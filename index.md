@@ -13,23 +13,18 @@ permalink: /
 ### Practice schedule
 Practices are open to all 5th-12th graders. Our practice field is at Oak Hills Elementary in Bountiful.
 * Monday 4-6pm
-* Wednesday 4-6pm (until May 16)
+* Wednesday 4-6pm
 * Friday 4-6pm
 
 ## Important Dates
 
 ### League Game nights
-**Wednesdays** March 16-May 4
+**Wednesdays** Starting Sept 14th
 
 ### Tournaments
-* Mar 26 - YouThaw 3v3 @ Farmington Legacy Events Center
-* Apr 22, 23 - Mountain Showdown (MS) @ Legacy Events Center
-* Apr 29, 30 - Daweena (HS) @ Equestrian Center
-* May 13, 14 - HS/MS State Tournament @ Salt Lake Regional Athletic Complex
+* Sept 5th - BYU Labor Day 3v3 Tournament @ Rotary Park, Provo
+* Nov 4, 5 - UUDA Fall Mixed Tournament
 
-### Other Events
-* [Swarm Bootcamps](https://utahultimate.org/e/swarm-boot-camp-2022)
-  This will be a fantastic opportunity to learn from top tier Utah Coaches. If you're interested in playing for the youth club teams that represent Utah at YCC Nationals this is a great warmup and opportunity to scope out your competition.
 
 ## Interested?
 * You can find more information on the team, it's goals, and the sport of Ultimate on our [Learn Page](/learn).
