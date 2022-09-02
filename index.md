@@ -5,7 +5,7 @@ permalink: /
 
 ![Team Photo](/images/team.jpg?1)
 
-## Spring 2022 info
+## Fall 2022 info
 
 ### Keep up to date
 [Join our GroupMe](https://groupme.com/join_group/66219801/GtwmbgO3) to keep up with late breaking practice cancellations or game day changes. We also have a [Google Group mailing list](https://groups.google.com/u/1/g/bountiful-ultimate) where we send longer form info for the season. You can request to join either or both or send your email/phone to [chimera.ulti@gmail.com](mailto:chimera.ulti@gmail.com) to be added.
