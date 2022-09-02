@@ -22,10 +22,10 @@ Fall league is starting up real soon and it's time to start getting registered. 
 ## To register for the league
 **If you're a minor, a parent or guardian must complete this process.**
 
-1. Head over to the [Utah Ultimate Fall league page](https://utahultimate.org/e/youth-fall-2022)
+1. Head over to the [Utah Ultimate Fall league page](https://utahultimate.org/e/youth-fall-2022/register?new=1)
 2. Click the register now button 
 3. Have your parent or guardian sign into or create an account using their personal information (ie email address, birthdate, etc). In a later step they'll add you as a family member and register you for the league.
-4. Once signed in, click 'Register a Family Member' (if you got lost, [this is the page](https://utahultimate.org/e/youth-spring-league-2022/register?new=1) you need to be on)
+4. Once signed in, click 'Register a Family Member' (if you got lost, [this is the page](https://utahultimate.org/e/youth-fall-2022/register?new=1) you need to be on)
 5. Select 'A family member' and either select your player or click 'add new family member' if they're not there.
 6. Choose 'On an existing team' and select either Chimera D2
 7. Hit Next
