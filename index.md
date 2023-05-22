@@ -3,28 +3,14 @@ layout: post-page
 permalink: /
 ---
 
-![Team Photo](/images/team.jpg?1)
+![Team Photo](/images/team.jpg?3)
 
-## Fall 2022 info
-
-### Keep up to date
+## Keep up to date
 [Join our GroupMe](https://groupme.com/join_group/66219801/GtwmbgO3) to keep up with late breaking practice cancellations or game day changes. We also have a [Google Group mailing list](https://groups.google.com/u/1/g/bountiful-ultimate) where we send longer form info for the season. You can request to join either or both or send your email/phone to [chimera.ulti@gmail.com](mailto:chimera.ulti@gmail.com) to be added.
 
-### Practice schedule
+## Practice schedule
 Practices are open to all 5th-12th graders. Our practice field is at Oak Hills Elementary in Bountiful.
-* Monday 4-6pm
-* Wednesday 4-6pm
-* Friday 4-6pm
-
-## Important Dates
-
-### League Game nights
-**Wednesdays** Starting Sept 14th
-
-### Tournaments
-* Sept 5th - BYU Labor Day 3v3 Tournament @ Rotary Park, Provo
-* Nov 4, 5 - UUDA Fall Mixed Tournament
-
+* Wednesday 4-5:30pm
 
 ## Interested?
 * You can find more information on the team, it's goals, and the sport of Ultimate on our [Learn Page](/learn).

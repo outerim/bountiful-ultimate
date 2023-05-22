@@ -4,6 +4,6 @@ services:
     build:
       context: .
     ports:
-      - "9000:4000"
+      - "8787:4000"
     volumes:
       - ./:/app
